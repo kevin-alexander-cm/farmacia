@@ -1,0 +1,90 @@
+/* Global Style */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+}
+
+p {
+    text-align: justify;
+}
+
+/* header */
+.imagen {
+    width: 100%;
+    object-fit: contain;
+}
+
+
+/* Navbar */
+.nav-link:hover {
+    color: rgb(20, 109, 20);
+    
+}
+
+.logo{
+
+    width: 120px;
+    height: 60px;
+   margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Main section */
+.titulo2{
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 30PX;
+    color: #1c236e;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(20, 109, 20);
+}
+
+.title-footer {
+    color: #fff;
+    font-weight: bolder;
+}
+
+.list-contact li {
+    list-style: none;
+}
+
+.list-contact a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.list-contact a:hover {
+    color: rgb(73, 148, 218);
+
+}
+
+.list-contact img {
+    width: 5%;
+}
+
+.video-footer {
+    width: 50%;
+    height: 70%;
+}
+
+.copyright hr {
+    color: #fff;
+}
+
+.copyright p {
+    color: #fff;
+    text-align: center;
+    
+}
+
+.colorfrom {
+    color: rgba(192, 192, 192, 0.938);
+    font-size: 9px;
+}
